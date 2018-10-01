@@ -1,2 +1,6 @@
 # rprograamingassignment2
-r programming, assignement 2 lexical scoping
+
+Coursra r programming 
+assignement 2 lexical scoping
+
+Logan Baker
